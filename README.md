@@ -136,7 +136,6 @@ cd  "C:\Users\UserName\Saved Games\Diablo II\"
 
 其他好用的符文組：
 
-- 押韻
 - 燦爛
 - 背信
 - 橡樹之心
@@ -145,13 +144,15 @@ cd  "C:\Users\UserName\Saved Games\Diablo II\"
 
 ## 實用網站資訊
 
-[BND](http://bns.laserblue.org/)
-
-搜尋目前線上遊戲的各關卡，目前無法提供服務 (2021-3)
-
 ### 物品資料查詢
 
 [易牙居](http://iyazero.tw/Default.htm)
+
+[凱恩之角](http://wiki.d.163.com/diablo/)
+
+[D2' Tomb](http://www.d2tomb.com/)
+
+[Classic Battle.net](http://classic.battle.net/diablo2exp/items/)
 
 ### 交易網站
 
