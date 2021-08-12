@@ -1,0 +1,2263 @@
+[
+    {
+        "rarity": "unique",
+        "equipment": "護身符",
+        "uniqueName": "地獄火炬"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "護身符",
+        "uniqueName": "毀滅"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "護身符",
+        "uniqueName": "吉黑得的運氣"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "靈魂看守者",
+        "baseName": "大地之靈"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "鋼鐵面紗",
+        "baseName": "螺旋頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "鋼影",
+        "baseName": "活動頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "溫暖骷髏",
+        "baseName": "白骨頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "暗視之盔",
+        "baseName": "輕鋼盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "塔因頭盔",
+        "baseName": "骷髏帽"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "黑角面具",
+        "baseName": "死亡面具"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "盜賊皇冠",
+        "baseName": "巨皇冠"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "無形升級亞面已鑲薩德"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "惡魔號角的邊緣",
+        "baseName": "毀滅者頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "粗野之冠",
+        "baseName": "戰帽"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "畢格因的軟帽",
+        "baseName": "帽子"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "偷取骷髏",
+        "baseName": "無頰頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "狼嚎",
+        "baseName": "暴怒面甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "烏鴉之王",
+        "baseName": "天空之靈"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "海拉柏得的國度",
+        "baseName": "征服者皇冠面甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "格利風之眼",
+        "baseName": "權冠"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "恐懼之臉",
+        "baseName": "面具"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "怒號長牙",
+        "baseName": "卓越頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "岩石制動器",
+        "baseName": "輕便頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "奇拉的守護",
+        "baseName": "三重冠"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "夜翼面紗",
+        "baseName": "螺旋頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "協角之冠",
+        "baseName": "軍帽"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "亞瑞特的面榮",
+        "baseName": "殺手防護面甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "吸血鬼的凝視",
+        "baseName": "殘酷頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "年紀之冠",
+        "baseName": "頭冠"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "安達利爾的面貌",
+        "baseName": "惡魔頭蓋骨面具"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "安達利爾的面貌 ",
+        "baseName": " 無形惡魔頭蓋骨面具"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "地獄之吻",
+        "baseName": "血腥之靈"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "光榮布帽",
+        "baseName": "頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "巨骷髏",
+        "baseName": "駭骨面罩"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "加爾的長髮",
+        "baseName": "圖騰面具狼盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "不死皇冠",
+        "baseName": "皇冠"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "女神之翼",
+        "baseName": "翼盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "頭盔",
+        "uniqueName": "黃昏深處",
+        "baseName": "高級頭盔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "戰爭旅者",
+        "baseName": "戰場之靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "熱靴刺",
+        "baseName": "皮靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "影舞者",
+        "baseName": "急速靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "蝕肉騎士",
+        "baseName": "巨戰之靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "凱松的征服",
+        "baseName": "鎖鏈靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "淚之臀",
+        "baseName": "護涇"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "骨隨行走",
+        "baseName": "駭骨靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "沙織",
+        "baseName": "織網之靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "沙暴之旅",
+        "baseName": "聖甲蟲殼靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "沙暴之旅 ",
+        "baseName": " 無形聖甲蟲殼靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "血腳",
+        "baseName": "重靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "地獄闊步",
+        "baseName": "魔皮靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "水上飄",
+        "baseName": "鯊皮之靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "升級蝕肉騎士 ",
+        "baseName": " 極速靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "鞋子",
+        "uniqueName": "小妖精腳指",
+        "baseName": "輕型金屬靴"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "鋒利扣帶",
+        "baseName": "金屬扣帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "蜘蛛之網",
+        "baseName": "蛛網腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "維爾登戈的心結",
+        "baseName": "秘銀腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "雷摩尼",
+        "baseName": "飾帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "雷神之力",
+        "baseName": "巨戰腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "雪之衝突",
+        "baseName": "戰場腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "陰影陷阱",
+        "baseName": "織網腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "蛇索",
+        "baseName": "輕扣帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "剃刀之尾",
+        "baseName": "鯊皮腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "長串之耳",
+        "baseName": "魔皮勳帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "金色包袱",
+        "baseName": "重扣帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "夜煙",
+        "baseName": "扣帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "腰帶",
+        "uniqueName": "吸血聖王之圈",
+        "baseName": "吸血鬼獠牙腰帶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "薩拉森的機會"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "貓眼"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "諾科藍遺物"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "幟天使之韻"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "瑪哈姆橡木古董"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "新月"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "馬拉的萬花筒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "金屬網格"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "亞特碼的聖甲蟲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "艾力屈之眼"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "旭日東昇"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "項鍊",
+        "uniqueName": "大軍之怒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "鷹甲",
+        "baseName": "鯪甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "靈魂鎔爐",
+        "baseName": "連扣戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "靈魂帷幕",
+        "baseName": "鬼魂戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "擴散黑暗",
+        "baseName": "鎖環甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "擲鐵",
+        "baseName": "攀繞戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "謝夫特斯坦布",
+        "baseName": "織網戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "薄暮外觀",
+        "baseName": "布甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "鴨鳴",
+        "baseName": "提格萊特戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "鋼鐵鎧甲",
+        "baseName": "陰影鎧甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "暴風雪澳馬斯"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "魁黑剛的智慧",
+        "baseName": "法師鎧甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "詩寇蒂的憤怒",
+        "baseName": "羅瑟戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "聖堂武士的力量",
+        "baseName": "神聖盔甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "奧瑪斯的長袍",
+        "baseName": "灰幕壽衣"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "黑色黑帝斯",
+        "baseName": "渾沌戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "黃金之皮",
+        "baseName": "高級戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "勝利者之絲綢",
+        "baseName": "古代裝甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "都瑞爾的殼",
+        "baseName": "護胸甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "蛇魔法師之皮",
+        "baseName": "海蛇皮甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "排齒",
+        "baseName": "鯊齒戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "鬥士的禍根",
+        "baseName": "線羊毛皮甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "骨肉",
+        "baseName": "鎧甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "眨眼蝙蝠的外觀",
+        "baseName": "皮甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "海王利維亞桑",
+        "baseName": "海妖殼甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "泰瑞爾的力量",
+        "baseName": "神聖盔甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "剝皮者之皮",
+        "baseName": "魔皮戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "毒液牢房",
+        "baseName": "胸甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "屍體的哀傷",
+        "baseName": "華麗戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "阿凱尼的榮耀",
+        "baseName": "炎魔皮版甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "抽動的掙扎",
+        "baseName": "鑲嵌甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "亞特碼的哭喊",
+        "baseName": "凸紋戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "作響之龍",
+        "baseName": "哥德戰甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "百夫長",
+        "baseName": "硬皮甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "守護天使",
+        "baseName": "聖堂武士外袍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "冰雪眨眼",
+        "baseName": "版甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "石之毛",
+        "baseName": "實戰鎧甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "火花之甲",
+        "baseName": "鎖子甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盔甲",
+        "uniqueName": "天堂裝束",
+        "baseName": "輕型裝甲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "珠寶",
+        "uniqueName": "彩虹刻面 "
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "魔龍的非難",
+        "baseName": "龍盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "魔力肇聲",
+        "baseName": "血王之骨"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "警戒之牆",
+        "baseName": "冷酷之盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "羅達門特之球體",
+        "baseName": "古代之盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "獵頭人的榮耀",
+        "baseName": "洞穴巨魔巢穴骨盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "龍鱗",
+        "baseName": "撒卡蘭姆盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "暴風之盾",
+        "baseName": "統治者大盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "暴風公會",
+        "baseName": "大盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "撒卡蘭姆使者",
+        "baseName": "飾金頓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "摩西祝福之環",
+        "baseName": "圓形盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "劍背之架",
+        "baseName": "尖刺盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "魂系結界",
+        "baseName": "保護盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "維斯爾坦特",
+        "baseName": "防禦盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "新月小盾",
+        "baseName": "圓頓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "黑橡樹盾",
+        "baseName": "月精靈護盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "無眼之牆",
+        "baseName": "白骨盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "陰影圓盤",
+        "baseName": "小盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "梅杜莎的凝視",
+        "baseName": "塔盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "基爾克的聖堂",
+        "baseName": "大盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "骨焰",
+        "baseName": "女妖之骨"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "風暴追逐者",
+        "baseName": "鱗盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "阿爾瑪尼格拉",
+        "baseName": "線神聖輕圓盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "長槍守衛",
+        "baseName": "倒刺護盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "侏儒",
+        "baseName": "祭師印記"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "貝弗提的紀念",
+        "baseName": "塔盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "作響的金屬",
+        "baseName": "輕盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "尖刺根源",
+        "baseName": "刀刃刺盾"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "囚房",
+        "baseName": "哥得盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "盾牌",
+        "uniqueName": "升級撒卡蘭姆使者 ",
+        "baseName": " 撒卡蘭姆盾牌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "懺悔者",
+        "baseName": "強威權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "暴風眼",
+        "baseName": "巨戰權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "撒卡蘭姆之手",
+        "baseName": "符文權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "腐蝕的把手",
+        "baseName": "雄偉權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "敲擊喪鍾者",
+        "baseName": "權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "愛斯特龍之鐵的保護區",
+        "baseName": "神使之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "惡臭散佈者",
+        "baseName": "聖水噴杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "祝福之光之手",
+        "baseName": "神屬權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "權杖",
+        "uniqueName": "天堂之光",
+        "baseName": "強威權杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "墓穴之脊",
+        "baseName": "骨杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "黑手之鑰",
+        "baseName": "墓地之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "凱恩碎片",
+        "baseName": "淨化之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "烏米的慟哭",
+        "baseName": "殘酷之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "炫渦",
+        "baseName": "紫杉之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "李奧瑞克王的武器",
+        "baseName": "古墓之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "衣洛的火炬",
+        "baseName": "法杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "自殺支系",
+        "baseName": "燒焦之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "死亡之網",
+        "baseName": "破隱法杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "魔杖",
+        "uniqueName": "白骨陰影",
+        "baseName": "巫妖法杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "精英標槍",
+        "uniqueName": "惡魔之王",
+        "baseName": "炎魔長矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "精英標槍",
+        "uniqueName": "死靈夜翔",
+        "baseName": "鬼魂尖槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "精英標槍",
+        "uniqueName": "石像鬼之噬",
+        "baseName": "翼魚叉"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "鐵製大錘",
+        "baseName": "卓越巨棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "鐵石",
+        "baseName": "巨戰鐵鎚"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "闇族毀滅者",
+        "baseName": "棍棒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "壓碎的凸邊",
+        "baseName": "釘頭錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "諾德的蝕肉藥",
+        "baseName": "戰儀杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "撼地者",
+        "baseName": "戰鬥鐵鎚"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "暴風之結",
+        "baseName": "天罰之錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "落月",
+        "baseName": "鋸齒流星錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "碎腦錘",
+        "baseName": "雷錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "碎骨",
+        "baseName": "大木棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "碎石者",
+        "baseName": "傳說之錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "痛苦木槌",
+        "baseName": "戰錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "惡魔爪牙",
+        "baseName": "暴君之棒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "堅硬的指甲",
+        "baseName": "狼牙棒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "風之鎚",
+        "baseName": "食人魔之鎚"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "坦杜裡嘎將軍",
+        "baseName": "連迦"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "貝西爾的漩渦",
+        "baseName": "鐵皮邊"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "血樹殘株",
+        "baseName": "巨戰木棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "血昇",
+        "baseName": "流星錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "血肉裁決者",
+        "baseName": "倒鉤錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "尖嘯冰霜",
+        "baseName": "凸緣釘頭錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "地平線的颱風",
+        "baseName": "天罰之錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "兇猛橡樹",
+        "baseName": "木棒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "史恰佛之錘",
+        "baseName": "錘說之錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "巴拉那之星",
+        "baseName": "惡魔流星錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "釘頭錘",
+        "uniqueName": "大地變形者",
+        "baseName": "雷錘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "靈魂採集者",
+        "baseName": "鐮刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "驚佈焰亡靈",
+        "baseName": "殘酷鐮刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "鐵刺棒",
+        "baseName": "鉤連槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "戰鬥支系",
+        "baseName": "長炳戰斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "暴風尖塔",
+        "baseName": "鮫尾巨斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "雷山德的側腹",
+        "baseName": "祭典之長矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "煩惱詩集",
+        "baseName": "長戢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "黑水之刃",
+        "baseName": "比爾長刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "雅典納的忿怒",
+        "baseName": "戰鬥鐮刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "盜墓者",
+        "baseName": "神秘之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "無形頂死神"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "無形全頂盜墓者"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "無形升級水魔"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "破骨",
+        "baseName": "食人魔之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "迪馬克之劈砍",
+        "baseName": "大砍刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "胡索丹依弗",
+        "baseName": "雙鋒戰戢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "刮肉者",
+        "baseName": "羅佳伯斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "冷酷開膛手",
+        "baseName": "巨戰鐮刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "死神的喪鍾",
+        "baseName": "銳利之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "石烏鴉",
+        "baseName": "女族長之矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "長斧",
+        "uniqueName": "皮爾通把考恩特",
+        "baseName": "戰戢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法珠",
+        "uniqueName": "眼球",
+        "baseName": "渦流水晶"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法珠",
+        "uniqueName": "艾斯屈塔的脾氣",
+        "baseName": "怪異之球"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法珠",
+        "uniqueName": "死亡深度",
+        "baseName": "次元碎片"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "鐵撿棒",
+        "baseName": "巨戰法杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "擺動剃刀",
+        "baseName": "喬木棒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "骷髏收集者",
+        "baseName": "符文之棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "禍根之灰",
+        "baseName": "短棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "梅格之歌的教訓",
+        "baseName": "執政官之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "海蛇之王",
+        "baseName": "長棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "拉撒羅絲之螺旋",
+        "baseName": "多節棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "扭曲之矛",
+        "baseName": "哥德之棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "肋骨粉碎者",
+        "baseName": "六呎棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "安戴爾的智慧",
+        "baseName": "長老之杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "火精靈",
+        "baseName": "戰鬥法杖"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "法杖",
+        "uniqueName": "五彩的怒氣",
+        "baseName": "杉木棍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "鶴嘴",
+        "baseName": "戰刺"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "龐貝之怒",
+        "baseName": "啄鉗"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "鋼鐵魔咒",
+        "baseName": "鉤斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "戰爵之證",
+        "baseName": "軍斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "暴風騎士",
+        "baseName": "戰鬥斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "劊子手的裁決",
+        "baseName": "榮光之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "腦袋",
+        "baseName": "卓越之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "碎骨者之刃",
+        "baseName": "哥德之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "費屈瑪之斧",
+        "baseName": "巨斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "鳥擊",
+        "baseName": "強化雙斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "蛇神守護者",
+        "baseName": "鈉卡"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "符文大師",
+        "baseName": "雙頭斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "族長",
+        "baseName": "戰鬥斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "悉梅斯特的掠奪",
+        "baseName": "豪傑斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "屠夫之瞳",
+        "baseName": "切肉斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "肩呷骨",
+        "baseName": "雙刃斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "血塊之鏟",
+        "baseName": "闊斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "死亡之鏟",
+        "baseName": "斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "死亡之刀",
+        "baseName": "狂戰士斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "死亡之刀 ",
+        "baseName": " 無形狂戰士斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "地獄毀滅者",
+        "baseName": "斬首斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "永恆邊界",
+        "baseName": "銀刃斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "巨大無比",
+        "baseName": "大斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "牛頭怪",
+        "baseName": "古代之斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "牙齒",
+        "baseName": "手府"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "火鉤之傷",
+        "baseName": "巨戰斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "切開骷髏",
+        "baseName": "軍用丘"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "斧頭",
+        "uniqueName": "刀鋒邊緣",
+        "baseName": "戰鋮"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "戰爭之鳥",
+        "baseName": "翼刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "撕裂者",
+        "baseName": "翼斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "雷擊",
+        "baseName": "女族長之標槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "碎片貪婪者",
+        "baseName": "飛斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "圓鑿",
+        "baseName": "法蘭飛斧"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "泰坦的復仇",
+        "baseName": "祭典之標槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "投擲武器",
+        "uniqueName": "死亡碎片",
+        "baseName": "戰鬥飛鏢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "爪",
+        "uniqueName": "影殺者",
+        "baseName": "鬥腰刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "爪",
+        "uniqueName": "碧玉爪",
+        "baseName": "腕劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "爪",
+        "uniqueName": "火蜥蜴之爪",
+        "baseName": "猛禽爪"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "爪",
+        "uniqueName": "巴特克的猛擊",
+        "baseName": "巨鷹爪"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "鷹號角",
+        "baseName": "十字軍之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "羅格之弓",
+        "baseName": "組合弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "爆裂的吠叫",
+        "baseName": "長巨戰弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "暴風之擊",
+        "baseName": "短戰鬥弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "撕裂之鉤",
+        "baseName": "剃刀之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "戮夫刃",
+        "baseName": "庇護之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "雷山德的指標",
+        "baseName": "祭典之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "無休止的兵刨",
+        "baseName": "雙弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "渡烏之爪",
+        "baseName": "長弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "凋謝之畫",
+        "baseName": "長戰鬥弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "凋謝之戒",
+        "baseName": "獵弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "風之力",
+        "baseName": "九頭蛇弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "勇氣之眼",
+        "baseName": "短弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "金擊圓弧",
+        "baseName": "哥德弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "社角久子",
+        "baseName": "杉木弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "岩壁殺手",
+        "baseName": "長攻城弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "狂野之弦",
+        "baseName": "短弓城弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "巫師之怒",
+        "baseName": "符文之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "作響的地獄",
+        "baseName": "短巨戰弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "血烏的襲擊",
+        "baseName": "女族長之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "弓",
+        "uniqueName": "天擊",
+        "baseName": "鋒銳之弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "暴風尖刺",
+        "baseName": "小劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "黑沼之鋒",
+        "baseName": "強波刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "裂肉者",
+        "baseName": "齒緣小刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "鬼火焰",
+        "baseName": "傳說尖刺"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "海鷗",
+        "baseName": "匕首"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "迪格勒",
+        "baseName": "長匕首"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "坦社之玉",
+        "baseName": "波形刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "刻心者",
+        "baseName": "詩歌匕首"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "巫師之刺",
+        "baseName": "駭骨小刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "妖怪碎片",
+        "baseName": "短刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "小刀",
+        "uniqueName": "列脊者",
+        "baseName": "銳匕"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "鐵柱",
+        "baseName": "戰槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "噬魂叉",
+        "baseName": "巨戰之叉"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "蝮蛇叉",
+        "baseName": "刺人槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "榮耀的尖塔",
+        "baseName": "長槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "愛理歐克之針",
+        "baseName": "亥伯龍之矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "雅該常矛",
+        "baseName": "大戰戢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "張龍",
+        "baseName": "長矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "穿刺者",
+        "baseName": "巨戰長矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "剃刀之叉",
+        "baseName": "三叉戢"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "坦之血杖",
+        "baseName": "矛"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "宏森丹",
+        "baseName": "三叉長槍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "血之偷",
+        "baseName": "叉"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "叉",
+        "uniqueName": "水魔陷阱",
+        "baseName": "魔鬼之叉"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "靈液之刺",
+        "baseName": "十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "藍格.布里瑟",
+        "baseName": "石弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "毀滅投石者",
+        "baseName": "連設十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "惡魔機器",
+        "baseName": "巧工弩"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "毒液怪",
+        "baseName": "攻城十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "投擲地獄",
+        "baseName": "重十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "地獄烤問",
+        "baseName": "巨神十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "布里撒.多.凱南",
+        "baseName": "弩弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "引導烏鴉",
+        "baseName": "青十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "十字弓",
+        "uniqueName": "內臟吸管",
+        "baseName": "惡魔十字弓"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "魔靈殺手",
+        "baseName": "土耳其劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "擊頭者",
+        "baseName": "戰鬥劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "影之牙",
+        "baseName": "雙手劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "劍衛",
+        "baseName": "死刑之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "瑞克撒特的輓歌",
+        "baseName": "短劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "黑色之舌",
+        "baseName": "巨劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "雲裂",
+        "baseName": "哥德劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "粗齒大鋸",
+        "baseName": "雙手飾劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "族長",
+        "baseName": "卓越之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "閃耀的鐮刀",
+        "baseName": "彎型大刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "神霜之風",
+        "baseName": "神秘之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "祖父",
+        "baseName": "巨神之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "特迪司法雷芙米法",
+        "baseName": "韓瑞德之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "格林提斯的肉叉",
+        "baseName": "軍刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "格里斯瓦得的銳利",
+        "baseName": "闊劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "庫爾溫的尖端",
+        "baseName": "巨戰之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "剝皮靈魂",
+        "baseName": "雙刃大刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "疫病帶原者",
+        "baseName": "符文劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "青瑟忿怒",
+        "baseName": "幻化之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "阿里八八之刃",
+        "baseName": "圓月彎刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "金瑟的裂縫",
+        "baseName": "空間之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "金麥爾的錐子",
+        "baseName": "大劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "卑劣軀殼",
+        "baseName": "長牙劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "亞特拉斯",
+        "baseName": "古代之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "兵之王",
+        "baseName": "雙刃鎌"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "克林鐵弗姆",
+        "baseName": "斬鐵劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "血書",
+        "baseName": "羅馬短劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "血紅新月",
+        "baseName": "彎刀"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "血月",
+        "baseName": "優雅之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "地獄瘟疫",
+        "baseName": "長劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "冰錮之眼",
+        "baseName": "微彎劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "光之軍刀",
+        "baseName": "幻化之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "末日毀滅者",
+        "baseName": "冠軍之劍"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "火焰號叫",
+        "baseName": "炎魔之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "刀劍",
+        "uniqueName": "六角之火",
+        "baseName": "虛偽之刃"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "腐肉之風"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "瑪那得的治療"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "矮人之星"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "喬丹之石"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "鬼火投射者"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "烏鴉之霜"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "拿各"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "收縮戒指"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "布爾凱索之戒"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "戒指",
+        "uniqueName": "大自然的和平"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "霜燃",
+        "baseName": "鐵手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "劇毒之抓",
+        "baseName": "魔皮手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "熔岩羊角",
+        "baseName": "戰場手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "墓穴的撫弄",
+        "baseName": "鯊魚皮套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "運氣守護",
+        "baseName": "鎖鏈手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "碎鋼",
+        "baseName": "食人魔鐵手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "食屍鬼之外皮",
+        "baseName": "重型手鐲"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "柏克之手",
+        "baseName": "皮手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "法師之拳",
+        "baseName": "輕型鐵手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "卓古拉之握",
+        "baseName": "吸血鬼駭骨手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "吸魂者",
+        "baseName": "吸血鬼手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "血拳",
+        "baseName": "重手套"
+    },
+    {
+        "rarity": "unique",
+        "equipment": "手套",
+        "uniqueName": "地獄之嘴",
+        "baseName": "巨戰手套"
+    }
+]
