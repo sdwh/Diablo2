@@ -154,9 +154,19 @@ cd  "C:\Users\UserName\Saved Games\Diablo II\"
 
 [Classic Battle.net](http://classic.battle.net/diablo2exp/items/)
 
+[符文組查詢](https://fabd.github.io/diablo2-runewizard/)
+
+[屬性取得查詢](https://fabd.github.io/diablo2/wiki/itemswith)
+
 ### 交易網站
 
 [D2JSP](https://www.d2jsp.org/)
 
 [Gamebase](http://www.gamebase.com.tw/forum/5677/)
+
+### 模組
+
+[Seven Diablos](https://github.com/twideem/SevenDiablos)
+
+[Diablo2_Jacky_Mod](https://github.com/flameddd/Diablo2_Jacky_Mod)
 
